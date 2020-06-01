@@ -10,7 +10,7 @@ pip install odia
 ```
 
 
-### Usage:
+### Usage
 
 ```bash
 
