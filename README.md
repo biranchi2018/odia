@@ -5,14 +5,14 @@ Odia Language
 
 ### With pip
 
-```bash
-pip install odia
+```python
+$ pip install odia
 ```
 
 
 ### Usage
 
-```bash
+```python
 
 import odia
 
